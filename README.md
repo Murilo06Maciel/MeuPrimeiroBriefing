@@ -21,7 +21,7 @@ A outras lojas (concorrentes) são maiores com o nome mais firmados no mercado. 
 Chronic , Azze, Loja Verse, e Maze shop
 # Observações:
 Não possui data aproximada para o site estar pronto. É um site promocional sendo promovido por meio de anúncios em redes sociais. O site deverá conter:
-- Endereço da Loja
-- Número de contato da loja
-- Lista de produtos (estoque)
-- Página de contato com o cliente (necessário pedir o nome, número de contato e endereço do cliente)
+- Endereço da Loja;
+- Número de contato da loja;
+- Lista de produtos (estoque);
+- Página de contato com o cliente (necessário pedir o nome, número de contato e endereço do cliente);
