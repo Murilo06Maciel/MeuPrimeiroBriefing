@@ -10,10 +10,48 @@
     width: auto;
     margin-left: auto;
     margin-right: auto;
+    align-self: center;
 }
 .nav-link{
     padding: -4px;
 }
 .nav-link dropdown-toggle{
     padding: -4px;
+}
+.card{
+    background-color: white;
+    width: 260px;
+    height: 320px;
+    border-radius: 12PX;
+    box-shadow: 4px 4px 12px #aaa;
+    justify-self: center;
+    padding-top: 4px;
+}
+.card div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    height: 50%;
+}
+.card h1{
+    font-size: 1.2rem;
+}
+.card h2{
+    font-size: .9rem;
+    color: #aaaa;
+}
+.card button{
+    background-color: red;
+    height: 30px;
+    border: none;
+    padding: 4px;
+    width: 80%;
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.body footer, main{
+    background-color: #080707;
 }
