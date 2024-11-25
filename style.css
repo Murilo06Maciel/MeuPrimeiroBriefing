@@ -68,9 +68,6 @@
     background-color: #080707;
 }
 
-.body, footer, main, header{
-    background-color: #080707;
-}
 .lançamento{
     color: #ff3131;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -95,4 +92,13 @@
     color: #080707;
     justify-items: center;
     text-align:justify;
+    font-size: 15px;
+    padding-top: 40px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.container{
+    color: #ffffff;
+    padding-top: 50px;
 }
